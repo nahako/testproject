@@ -3,9 +3,9 @@
 class Main_Database
 {
     private $servername = "localhost";
-    private $username = "nahako_cronjob";
-    private $password = "T66jDAS*";
-    private $database = "nahako_cronjob";
+    private $username = "username";
+    private $password = "password";
+    private $database = "database";
     private $connection;
 
     function __construct()
